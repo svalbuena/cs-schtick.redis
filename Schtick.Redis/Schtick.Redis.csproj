@@ -1,11 +1,11 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
     <PropertyGroup>
         <TargetFramework>net6.0</TargetFramework>
-        <Version>2.0.2</Version>
-        <Authors>Bret Copeland</Authors>
+        <Version>2.0.3</Version>
+        <Authors>Bret Copeland, Stack Exchange</Authors>
         <Product>Schtick.Redis</Product>
-        <PackageProjectUrl>https://github.com/schyntax/cs-schtick.redis</PackageProjectUrl>
-        <RepositoryUrl>https://github.com/schyntax/cs-schtick.redis</RepositoryUrl>
+        <PackageProjectUrl>https://github.com/viveret/cs-schtick.redis</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/viveret/cs-schtick.redis</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
         <PackageTags>Schyntax Schtick Schedule Task Runner</PackageTags>
     </PropertyGroup>
