@@ -12,6 +12,6 @@
     <ItemGroup>
       <PackageReference Include="Schtick" Version="2.0.1" />
       <PackageReference Include="Schyntax" Version="2.0.1" />
-      <PackageReference Include="StackExchange.Redis" Version="2.5.61" />
+      <PackageReference Include="StackExchange.Redis" Version="2.6.45" />
     </ItemGroup>
 </Project>
